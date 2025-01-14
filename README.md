@@ -6,3 +6,5 @@ Deep_Learning
 ​
 
 ***
+
+![image_02.png](attachment:image_02.png)
