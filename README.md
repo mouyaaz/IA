@@ -11,3 +11,5 @@ Dans ce projet, notre exploration se concentrera sur le jeu de données **Natura
 Ce jeu de données comprend 6,899 images réparties en 8 classes distinctes, à savoir avion, voiture, chat, chien, fleur, fruit, moto et personne.
 
 Pour aborder ce défi, nous ferons principalement usage de deux approches de pointe en apprentissage profond : les réseaux de neurones convolutifs (CNN) et le Transfert Learning. Ces techniques, considérées comme l'état de l'art actuel, nous permettront d'extraire des caractéristiques pertinentes des images et d'optimiser la performance de notre modèle pour la classification des différentes classes du jeu de données.
+
+![image_02.png](attachment:image_02.png)
